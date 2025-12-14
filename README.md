@@ -17,15 +17,15 @@ This setup is suitable for learning purposes and real-world projects.
 * Express.js
 * dotenv
 * cors
-* jsonwebtoken (optional)
-* MySQL / PostgreSQL (optional)
+* redis
+* MySQL
 
 ### Frontend (Next.js)
 
 * Next.js
 * React
-* Fetch API or Axios
-* Tailwind CSS (optional)
+* Axios
+* Tailwind CSS
 
 # ⚙️ Backend (Express.js)
 
