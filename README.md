@@ -5,7 +5,7 @@ This repository contains a **fullstack web application** built with:
 * **Backend**: Express.js
 * **Frontend**: Next.js
 
-This setup is suitable for learning purposes and real-world projects.
+This setup is suitable for learning purposes.
 
 ---
 
@@ -15,6 +15,7 @@ This setup is suitable for learning purposes and real-world projects.
 
 * Node.js
 * Express.js
+* nodemon
 * dotenv
 * cors
 * redis
@@ -23,9 +24,9 @@ This setup is suitable for learning purposes and real-world projects.
 ### Frontend (Next.js)
 
 * Next.js
-* React
 * Axios
 * Tailwind CSS
+* DaisyUi
 
 # ⚙️ Backend (Express.js)
 
