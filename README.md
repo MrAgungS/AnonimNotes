@@ -1,4 +1,5 @@
 # ERROR CODE 404 
+Currently experiencing a 404 error, it will be left for a while due to campus activities.
 
 # 🚀 Anonim Notes (Express.js + Next.js)
 
