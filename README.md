@@ -1,3 +1,5 @@
+#ERROR 
+
 # 🚀 Anonim Notes (Express.js + Next.js)
 
 This repository contains a **fullstack web application** built with:
