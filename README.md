@@ -1,4 +1,4 @@
-#ERROR 
+# ERROR CODE 404 
 
 # 🚀 Anonim Notes (Express.js + Next.js)
 
