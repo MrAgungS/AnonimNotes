@@ -1,6 +1,9 @@
 # ERROR CODE 404 
 Currently experiencing a 404 error, it will be left for a while due to campus activities.
 
+# IMPORTANT
+Due to academic commitments and recurring 404 errors, I have decided to rebuild this project as a similar one, but with notable differences, including changes in design and the libraries used.
+GitHub link to this project: [GitHub]()
 # 🚀 Anonim Notes (Express.js + Next.js)
 
 This repository contains a **fullstack web application** built with:
